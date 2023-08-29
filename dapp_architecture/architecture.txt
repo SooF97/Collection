@@ -1,0 +1,15 @@
+1- DAPP Architecture:
+    - the dapp will have:
+        + Navbar (Home, About, Roadmap, Team, Mint)
+        + Hero: 
+            -- a title animated displaying a paragraph that attracts people
+            -- a second little paragraph describing the collection briefly
+            -- a CTA button (mint button)
+
+2- Navbar menu:
+    - Home => redirect to the home page
+    - About => tell customers about the project, goals, future, benefits for holders...etc
+    - Roadmap => a roadmap for the whole project
+    - Team => a section about team members with their socials 
+    - Mint => a minting button that allows users to redirect to the minting page
+    
